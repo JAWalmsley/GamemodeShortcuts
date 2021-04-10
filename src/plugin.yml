@@ -1,0 +1,22 @@
+name: GamemodeShortcuts
+version: 1.0.0
+author: Jack Walmsley
+main: com.jackwalmsley.gms.GamemodeShortcuts
+api-version: 1.16
+commands:
+  gmc:
+    description: Puts the user in creative mode
+    usage: /gmc
+    permission: gms.change
+  gms:
+    description: Puts the user in survival mode
+    usage: /gms
+    permission: gms.change
+  gma:
+    description: Puts the user in adventure mode
+    usage: /gma
+    permission: gms.change
+permissions:
+  gms.change:
+    description: Allows the user to change gamemode
+    default: op
