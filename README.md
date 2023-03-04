@@ -2,6 +2,8 @@
 
 GamemodeShortcuts is a Bukkit plugin allowing mods to switch gamemodes easier
 
+Download on [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/gamemodeshortcuts).
+
 ## Commands
 
 <table width=100%>
